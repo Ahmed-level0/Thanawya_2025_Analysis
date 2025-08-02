@@ -7,9 +7,10 @@
 <p>Jupyter notebook</p>
 <h2>Data Description</h2>
 <p>The original file has 3 columns</p>
-<p>SeatNumber</p>
+<p>Seat number</p>
 <p>Full name in arabic</p>
 <p>The student's score</p>
+<small>Data was published on the internet and it's included in the project so any one can keep it</small>
 <h2>Columns added</h2>
 <h3>The student's score Percentage</h3>
 <p>Took the student's score and divied it by 320 which is the full mark and then multyplied by 100 to get the percentage of the score</p>

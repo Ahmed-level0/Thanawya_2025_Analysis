@@ -2,7 +2,7 @@
 <p>Thanawya is a year in the egyptian education system that your score decides what college you will join</p>
 <p>It's the 12 grade so most of the students are 18</p>
 <h2>Technologies Used</h2>
-<p>Python for data Analysis (Pandas, numpy, matplotlib, seaborn)</p>
+<p>Python (Data analysis and visualization) Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)</p>
 <p>Jupyter notebook</p>
 <h2>Data Description</h2>
 <p>The original file has 3 columns</p>

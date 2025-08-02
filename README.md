@@ -8,6 +8,6 @@
 <p>The student's score</p>
 <h2>Columns added</h2>
 <p>The student's score Percentage</p>
-<h3>The student's score rate</h3>
-<p>The student's score rate ranges from Failed to Excellent</p>
-<p>Depending on the student score the rate is chosen</p>
+<h3>The student's score category</h3>
+<p>The student's score category ranges from Failed to Excellent</p>
+<p>Depending on the student score the category is chosen</p>
